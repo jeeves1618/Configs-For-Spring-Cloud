@@ -34,7 +34,7 @@ management:
       enabled: true
 info:
   app:
-    name: "{cipher}014b76c3a6545fd8f8d78b40838ab66d0cde0928a82a5c0217fcbe67fd90db4b"
+    name: "{cipher}0266dab509d70e5aa837ca239864a98742e772392894d13ed0922bcfb314e76667253453c164eabdd4b34f7464a9dad7"
     description: |
       A Spring Boot app that provides a Web UI developed through Thymeleaf Template Resolver and REST end points through Spring REST.
       It used Spring JPA to connect to the databases. There are three database options to choose from, H2 and MySQL. 
