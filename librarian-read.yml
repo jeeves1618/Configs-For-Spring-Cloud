@@ -1,0 +1,5 @@
+myreads:
+  url: "https://jeeves1618.github.io/Learnings/myreads.html"
+  description: "The list of books I have read"
+  sorting: "The books are sorted based on when they were last read."
+  whatdoimean: "If I have read a book in 2003, 2006 and 2016, you will see them only under 2016"
